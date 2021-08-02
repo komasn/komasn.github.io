@@ -14,6 +14,14 @@ Githubを使ってブログを作ってみようと思います。
 - メモリ:4GB
 - OS:Pop!_OS 20.04 LTS
 - editor:Atom
-
 2009年に購入したパソコンを現在も使用しています。  
 HDDをSSDにした以外は何もしていません。何年使えるんだろ。  
+---
+最近の記事  
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
