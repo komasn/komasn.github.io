@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ブログ作成"
+author: "mgrsn"
 date: 2021-08-02 22:00
 ---
 githubを使ってブログを作ってみようと思います。  
