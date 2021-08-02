@@ -1,11 +1,10 @@
-I"u<h1 id="ブログ作成">ブログ作成</h1>
-<p>2021-08-02 22:00</p>
-
-<p>githubを使ってブログを作ってみようと思います。<br />
+I"T<p>githubを使ってブログを作ってみようと思います。<br />
 githubとjekyllを組み合わせています。<br />
 参考にさせて頂いたサイト</p>
 
-<p><a href="http://jekyllrb-ja.github.io/">http://jekyllrb-ja.github.io/</a></p>
+<p><a href="http://jekyllrb-ja.github.io/">http://jekyllrb-ja.github.io/</a><br />
+<a href="https://simple-it-life.com/2020/08/16/migrate-blog-to-github/">Jekyllの使い方 GitHub Pagesを使ってブログサイトを公開する方法</a><br />
+<a href="https://masamichi.me/development/2020/05/26/github-pages-blog-part2-jekyll.html">GitHub Pagesで無料ブログを作成する - Part2 Jekyllを使ってみる</a></p>
 
 <p>私の自宅パソコン環境はこんな感じです</p>
 <ul>
@@ -18,8 +17,6 @@ githubとjekyllを組み合わせています。<br />
 
 <p>2009年に購入したパソコンを現在も使用しています。<br />
 HDDをSSDにした以外は何もしていません。何年使えるんだろ。</p>
-
-<p><a href="https://mgrsn.github.io">TOP</a></p>
 
 <p>記事一覧</p>
 <ul>
