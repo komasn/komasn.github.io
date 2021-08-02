@@ -1,9 +1,19 @@
 ---
 layout: page
-title: "First post"
+title: "ブログ作成"
 date: 2021-08-02
 ---
 
-# Fist post
+# ブログ作成
 
-First post
+Githubを使ってブログを作ってみようと思います。  
+調べながらjekyllで管理してみます。  
+更新環境はこんな感じです  
+- PC:dell studio 1537
+- CPU:Core™2 Duo CPU P8400
+- メモリ:4GB
+- OS:Pop!_OS 20.04 LTS
+- editor:Atom
+
+2009年に購入したパソコンを現在も使用しています。  
+HDDをSSDにした以外は何もしていません。何年使えるんだろ。  
