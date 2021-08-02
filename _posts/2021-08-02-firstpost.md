@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "ブログ作成"
 date: 2021-08-02
 ---
