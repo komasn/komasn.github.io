@@ -26,3 +26,4 @@ HDDをSSDにした以外は何もしていません。何年使えるんだろ�
     </li>
   {% endfor %}
 </ul>
+[TOP](https://mgrsn.github.io)
