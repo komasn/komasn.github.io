@@ -5,7 +5,7 @@ date: 2021-08-02 22:00
 ---
 
 # ブログ作成
-{{ post.date }}  
+2021-08-02 22:00  
 
 Githubを使ってブログを作ってみようと思います。  
 調べながらjekyllで管理してみます。  
@@ -19,6 +19,8 @@ Githubを使ってブログを作ってみようと思います。
 2009年に購入したパソコンを現在も使用しています。  
 HDDをSSDにした以外は何もしていません。何年使えるんだろ。  
 
+[TOP](https://mgrsn.github.io)  
+
 記事一覧  
 <ul>
   {% for post in site.posts %}
@@ -27,4 +29,3 @@ HDDをSSDにした以外は何もしていません。何年使えるんだろ�
     </li>
   {% endfor %}
 </ul>
-[TOP](https://mgrsn.github.io)
