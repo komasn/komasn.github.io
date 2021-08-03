@@ -21,12 +21,3 @@ githubとjekyllを組み合わせています。
 
 2009年に購入したパソコンを現在も使用しています。  
 HDDをSSDにした以外は何もしていません。何年使えるんだろ。  
-
-記事一覧  
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
