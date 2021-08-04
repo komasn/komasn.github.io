@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-03T23:18:31+09:00</updated><id>/feed.xml</id><entry><title type="html">記事の追加</title><link href="/2021/08/03/add-post.html" rel="alternate" type="text/html" title="記事の追加" /><published>2021-08-03T12:30:00+09:00</published><updated>2021-08-03T12:30:00+09:00</updated><id>/2021/08/03/add-post</id><content type="html" xml:base="/2021/08/03/add-post.html">&lt;p&gt;記事を追加してみます。&lt;br /&gt;
+iPadからの投稿を試してみようと思います。&lt;br /&gt;
+iPadOS版のWorking Copyで編集してGithubにpushします。&lt;br /&gt;
+プレビュー確認できないのが辛い気がします。&lt;br /&gt;
+編集できないことはないですが，やはりパソコンは必須ですね。&lt;br /&gt;
+マークダウン記述方式をサポートしてくれるエディタがiPadOSで存在しないか調べてみようと思います。&lt;/p&gt;</content><author><name>mgrsn</name></author><summary type="html">記事を追加してみます。 iPadからの投稿を試してみようと思います。 iPadOS版のWorking Copyで編集してGithubにpushします。 プレビュー確認できないのが辛い気がします。 編集できないことはないですが，やはりパソコンは必須ですね。 マークダウン記述方式をサポートしてくれるエディタがiPadOSで存在しないか調べてみようと思います。</summary></entry><entry><title type="html">ブログ作成</title><link href="/2021/08/02/firstpost.html" rel="alternate" type="text/html" title="ブログ作成" /><published>2021-08-02T22:00:00+09:00</published><updated>2021-08-02T22:00:00+09:00</updated><id>/2021/08/02/firstpost</id><content type="html" xml:base="/2021/08/02/firstpost.html">&lt;p&gt;githubを使ってブログを作ってみようと思います。&lt;br /&gt;
+githubとjekyllを組み合わせています。&lt;br /&gt;
+参考にさせて頂いたサイト&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb-ja.github.io/&quot;&gt;http://jekyllrb-ja.github.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://simple-it-life.com/2020/08/16/migrate-blog-to-github/&quot;&gt;Jekyllの使い方 GitHub Pagesを使ってブログサイトを公開する方法&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://masamichi.me/development/2020/05/26/github-pages-blog-part2-jekyll.html&quot;&gt;GitHub Pagesで無料ブログを作成する - Part2 Jekyllを使ってみる&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;私の自宅パソコン環境はこんな感じです&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;PC:dell studio 1537&lt;/li&gt;
+  &lt;li&gt;CPU:Core™2 Duo CPU P8400&lt;/li&gt;
+  &lt;li&gt;メモリ:4GB&lt;/li&gt;
+  &lt;li&gt;OS:Pop!_OS 20.04 LTS&lt;/li&gt;
+  &lt;li&gt;editor:Atom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2009年に購入したパソコンを現在も使用しています。&lt;br /&gt;
+HDDをSSDにした以外は何もしていません。何年使えるんだろ。&lt;/p&gt;</content><author><name>mgrsn</name></author><summary type="html">githubを使ってブログを作ってみようと思います。 githubとjekyllを組み合わせています。 参考にさせて頂いたサイト</summary></entry></feed>

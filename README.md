@@ -2,4 +2,3 @@
 坂出市在住  
 備忘録として使って行こうと思います。  
 jekyll でブログ公開してみようと思います  
-theme: jekyll-theme-slate
