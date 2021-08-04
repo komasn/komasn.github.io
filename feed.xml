@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-04T10:53:48+09:00</updated><id>/feed.xml</id><title type="html">備忘録</title><subtitle>conoha vpsのレンタルをはじめました。ubuntu nginx jekyllを組み合わせてWEBサイトを公開する ことが当面の目標です。現在はgithubで公開しています。</subtitle><entry><title type="html">記事の追加</title><link href="/2021/08/03/add-post.html" rel="alternate" type="text/html" title="記事の追加" /><published>2021-08-03T12:30:00+09:00</published><updated>2021-08-03T12:30:00+09:00</updated><id>/2021/08/03/add-post</id><content type="html" xml:base="/2021/08/03/add-post.html">&lt;p&gt;記事を追加してみます。&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-04T22:19:27+09:00</updated><id>/feed.xml</id><title type="html">備忘録</title><subtitle>conoha vpsのレンタルをはじめました。ubuntu nginx jekyllを組み合わせてWEBサイトを公開する ことが当面の目標です。現在はgithubで公開しています。</subtitle><entry><title type="html">今後の目標</title><link href="/2021/08/04/mokuhyou.html" rel="alternate" type="text/html" title="今後の目標" /><published>2021-08-04T22:00:00+09:00</published><updated>2021-08-04T22:00:00+09:00</updated><id>/2021/08/04/mokuhyou</id><content type="html" xml:base="/2021/08/04/mokuhyou.html">&lt;p&gt;conoha vps を契約しました。&lt;br /&gt;
+テンプレートで素晴らしいプロダクトが公開されています。&lt;br /&gt;
+今後の目標として、ブログ運用をvpsで行いたいです。&lt;br /&gt;
+現在想定している運用としては、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;githubのプライベートリポジトリでjekyllプロダクトを管理する&lt;/li&gt;
+  &lt;li&gt;更新はPC、スマホ(working copyなど)で行う&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.conoha.jp/vps/&quot;&gt;conoha vps&lt;/a&gt;のubuntuにnginxとjekyllをインストールする&lt;/li&gt;
+  &lt;li&gt;vpsからgithubのプライベートリポジトリをpullする&lt;/li&gt;
+  &lt;li&gt;vps上でjekyll b する&lt;/li&gt;
+  &lt;li&gt;_siteを公開用ディレクトリにcopyする&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;煩雑な手順のような気がしますが…&lt;br /&gt;
+一旦上記の運用を目指してみます&lt;/p&gt;
+
+&lt;p&gt;ubuntu(popos)、Atom、git、nginx、jekyllの組み合わせはなんとなく自分にあってる気がします。&lt;/p&gt;
+
+&lt;p&gt;サーバもraspbery piで運用できたら楽しそうですが、どこまでできるかな。&lt;br /&gt;
+それ以前に、jekyllでテーマを変更する方法を理解していません。&lt;br /&gt;
+_config.ymlを編集すればいいのか？？&lt;br /&gt;
+Gemfileを編集すればいいのか？？&lt;/p&gt;
+
+&lt;p&gt;サーバ運用云々よりも jekyll-theme-slate を適用させることに四苦八苦している状況です。&lt;/p&gt;</content><author><name>mgrsn</name></author><summary type="html">conoha vps を契約しました。 テンプレートで素晴らしいプロダクトが公開されています。 今後の目標として、ブログ運用をvpsで行いたいです。 現在想定している運用としては、</summary></entry><entry><title type="html">記事の追加</title><link href="/2021/08/03/add-post.html" rel="alternate" type="text/html" title="記事の追加" /><published>2021-08-03T12:30:00+09:00</published><updated>2021-08-03T12:30:00+09:00</updated><id>/2021/08/03/add-post</id><content type="html" xml:base="/2021/08/03/add-post.html">&lt;p&gt;記事を追加してみます。&lt;br /&gt;
 iPadからの投稿を試してみようと思います。&lt;br /&gt;
 iPadOS版のWorking Copyで編集してGithubにpushします。&lt;br /&gt;
 プレビュー確認できないのが辛い気がします。&lt;br /&gt;
