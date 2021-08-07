@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-04T22:34:23+09:00</updated><id>/feed.xml</id><title type="html">備忘録</title><subtitle>conoha vpsのレンタルをはじめました。ubuntu nginx jekyllを組み合わせてWEBサイトを公開する ことが当面の目標です。現在はgithubで公開しています。</subtitle><entry><title type="html">今後の目標</title><link href="/2021/08/04/mokuhyou.html" rel="alternate" type="text/html" title="今後の目標" /><published>2021-08-04T22:00:00+09:00</published><updated>2021-08-04T22:00:00+09:00</updated><id>/2021/08/04/mokuhyou</id><content type="html" xml:base="/2021/08/04/mokuhyou.html">&lt;p&gt;conoha vps を契約しました。&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-08-07T10:19:39+09:00</updated><id>/feed.xml</id><title type="html">備忘録</title><subtitle>conoha vpsのレンタルをはじめました。ubuntu nginx jekyllを組み合わせてWEBサイトを公開する ことが当面の目標です。現在はgithubで公開しています。</subtitle><entry><title type="html">東京都コロナ特設サイトから始まる学習</title><link href="/2021/08/07/covid19-linux.html" rel="alternate" type="text/html" title="東京都コロナ特設サイトから始まる学習" /><published>2021-08-07T09:00:00+09:00</published><updated>2021-08-07T09:00:00+09:00</updated><id>/2021/08/07/covid19-linux</id><content type="html" xml:base="/2021/08/07/covid19-linux.html">&lt;p&gt;&lt;a href=&quot;https://github.com/tokyo-metropolitan-gov/covid19&quot;&gt;東京都新型コロナウィルス感染症対策サイト&lt;/a&gt;がgithubで公開されているので、香川県版を作ってみたいなと思ったのですが、&lt;a href=&quot;https://github.com/codeforkagawa/covid19&quot;&gt;すでに存在&lt;/a&gt;していました。すごい。&lt;br /&gt;
+私がgithubの使い方についてほとんど理解していないのですが、&lt;a href=&quot;https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2&quot;&gt;東京都 新型コロナウイルス対策サイトへの貢献方法を解説&lt;/a&gt;を参考にしながら手をつけてみたいと思います。&lt;/p&gt;
+
+&lt;p&gt;東京都 新型コロナウイルス対策サイトへの貢献方法を解説の記事を作成された方は高校生だとのことで、ただただ驚くばかりです。&lt;br /&gt;
+非常に記事の内容がわかりやすく勉強になります。&lt;/p&gt;
+
+&lt;p&gt;githubからcloneしたリポジトリをローカル環境で動作させるため、npm, nodejs, yarnをインストールしました。&lt;/p&gt;
+
+&lt;p&gt;apt install でnodejsをインストールしたところ、yarn の実行時にnodejsのバージョンエラーが発生しました。&lt;br /&gt;
+npm n をインストールしてnodejsをアップデートすることで解決しました。stableにアップデートしました。&lt;/p&gt;
+
+&lt;p&gt;以上により、動作するところまでは行きました。&lt;br /&gt;
+jekyllのときにも思ったのですが、ローカル環境でサーバが立ち上がるとなんだか感動します。&lt;br /&gt;
+それと同時に思うのはlinuxの基本的な知識が自分に欠落しているので、インターネットで調べて情報を理解できずに実行しているところが非常に多いです。&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.co.jp/gp/product/4798166162/ref=as_li_tl?ie=UTF8&amp;amp;camp=247&amp;amp;creative=1211&amp;amp;creativeASIN=4798166162&amp;amp;linkCode=as2&amp;amp;tag=lpijapan01-22&amp;amp;linkId=ebd38d134cce9c7638dc45a917c25942&quot;&gt;linucのレベル１の書籍&lt;/a&gt;を購入したので、読み進めて行こうと思います。&lt;/p&gt;
+
+&lt;p&gt;主に閲覧したWEBサイト様は以下の通りです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tokyo-metropolitan-gov/covid19&quot;&gt;東京都新型コロナウィルス感染症対策サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/codeforkagawa/covid19&quot;&gt;香川県新型コロナウィルス感染症対策サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/FPC_COMMUNITY/items/b9cc072813dc2231b2b2&quot;&gt;東京都 新型コロナウイルス対策サイトへの貢献方法を解説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Npm_(%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB)&quot;&gt;npm (パッケージ管理ツール)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://classic.yarnpkg.com/en/&quot;&gt;yarn公式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://parashuto.com/rriver/tools/updating-node-js-and-npm&quot;&gt;Node.jsとnpmをアップデートする方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>mgrsn</name></author><summary type="html">東京都新型コロナウィルス感染症対策サイトがgithubで公開されているので、香川県版を作ってみたいなと思ったのですが、すでに存在していました。すごい。 私がgithubの使い方についてほとんど理解していないのですが、東京都 新型コロナウイルス対策サイトへの貢献方法を解説を参考にしながら手をつけてみたいと思います。</summary></entry><entry><title type="html">今後の目標</title><link href="/2021/08/04/mokuhyou.html" rel="alternate" type="text/html" title="今後の目標" /><published>2021-08-04T22:00:00+09:00</published><updated>2021-08-04T22:00:00+09:00</updated><id>/2021/08/04/mokuhyou</id><content type="html" xml:base="/2021/08/04/mokuhyou.html">&lt;p&gt;conoha vps を契約しました。&lt;br /&gt;
 テンプレートで素晴らしいプロダクトが公開されています。&lt;br /&gt;
 今後の目標として、ブログ運用をvpsで行いたいです。&lt;br /&gt;
 現在想定している運用としては、&lt;/p&gt;
