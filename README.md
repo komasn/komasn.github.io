@@ -7,3 +7,6 @@ conoha vpsの2GBプランでWEBサイトを運用しています(2021/08/09現�
 3ヶ月チケットで契約したのでしばらくこのままですが、512MBプランに落とす予定です。
   
 [メインサイト](http://mgrsn.com)  
+
+次の目標は
+[WEBサイトのhttps化](https://letsencrypt.org/ja/)です。
