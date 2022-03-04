@@ -16,9 +16,9 @@
 <p>ブログを運営しています</p>
 [独楽鼠吾郎と3名の扶養家族](https://mgrsn.com)  
 
-’’’mermaid
+```mermaid
 graph LR
     ID1[ノード1] -- リンク --> ID2((ノード2))
     ID3 --> ID2
-’’’
+```
  
